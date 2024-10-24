@@ -1,0 +1,28 @@
+{
+  "id": "I298880DF",
+  "title": {
+    "title_bo": "རྩོད་པའི་རིགས་པའི་འགྲེལ་པ་དོན་རྣམ་པར་འབྱེད་པ་།",
+    "alt_title_bo": "རྩོད་པའི་རིགས་པའི་འགྲེལ་པ་དོན་རྣམ་པར་འབྱེད་པ།"
+  },
+  "author": {
+    "author_en": "Shantarakshita",
+    "author_bo": "མཁན་ཆེན་ཞི་བ་འཚོ་"
+  },
+  "imported": "2024-10-24T11:14:47.527667",
+  "source": null,
+  "toolkit_version": "0.0.1",
+  "parser": "PedurmaParser",
+  "initial_creation_type": "input",
+  "language": "bo",
+  "source_metadata": {
+    "text_id": "D4239",
+    "bdrc_person_id": "P5659"
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
